@@ -47,7 +47,7 @@
     <snapshotRepository>
         <id>sym</id>
         <name>snapshot softx</name>
-        <url>http://3.14.129.55:808//repository/all/</url>
+        <url>http://3.14.129.55:8082//repository/all/</url>
     </snapshotRepository>
 </distributionManagement>
 
