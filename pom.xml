@@ -60,11 +60,4 @@
         <url>http://172.31.11.49:8082/repository/all/</url>
     </snapshotRepository>
 </distributionManagement>
-
-
-
-
-
-
-
 </project>
